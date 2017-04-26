@@ -1,0 +1,143 @@
+h1, h2, h3, h4 {
+	font-family: 'Patua One', cursive;
+}
+
+h1 {
+	font-size: 300%;
+}
+
+h3 {
+	font-size: 200%;
+}
+
+h4 {
+
+	font-size: 150%;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.panel-title {
+	font-size: 18px;
+}
+
+/* Glyphicons */
+.short-info .glyphicon, .short-info .fa {
+	font-size: 25px;
+}
+
+.contact-icons .fa {
+	font-size: 25px;
+	color: #8c8c8c;
+	margin: 10px 4px 0 0;
+}
+
+.fa-instagram:hover {
+	color: #b30086;
+}
+
+.fa-telegram:hover {
+	color: #0088cc;
+}
+
+.fa-globe:hover {
+	color: #ff9000;
+}
+
+.fa-linkedin-square:hover {
+	color: #0077b5;
+}
+
+.fa-facebook-square:hover {
+	color: #3b5998;
+}
+
+.fa-youtube-square:hover {
+	color: #cd201f;
+}
+
+/* hovers and links */
+.short-info a:hover {
+	color: #666666;
+}
+
+.short-info a {
+	color: #333;
+	text-decoration: none;
+}
+
+.data-box a {
+	color: #2d2d2d;
+}
+
+.data-box a:hover {
+	color: #666666;
+}
+
+a.recharge {
+	color: green;
+}
+
+a.recharge:hover {
+	color: #006837;
+}
+
+/* images */
+
+.map {
+	justify-content: center;
+}
+
+img.logo, .xs-img {
+	margin-bottom: 25px;
+}
+
+footer img {
+	margin-top: 25px;
+}
+
+
+
+/* random */
+
+ul {
+  list-style-type: none;
+}
+
+.about-car h4 {
+	text-align: center;
+}
+
+.alfa-info {
+	margin-bottom: 25px;
+}
+
+.data-box-top {
+	display: flex;
+	align-items: flex-end;
+}
+
+
+.caption {
+	margin-bottom: 40px;
+}
+
+.card {
+	padding: 3px;
+	margin: 10px 0;
+}
+
+.card h3 {
+	margin-top: -1px;
+}
+
+.card img, .btn-default {
+	margin-bottom: 5px;
+}
+
+.btn p {
+	vertical-align: middle;
+}
+
